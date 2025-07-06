@@ -1,43 +1,42 @@
 # Car Insurance Claims
 ## Description 
-This analysis provides an understanding of claim distribution and demographic patterns, designed to inform strateguc decsions for risk assessment.
-This dashboard provides a clear overview of insurance calim distribution across age, gender and location [Pennsylvania, South Carolina, West Virgina, North Carolina, Ohio, and New York] of 1000 insurance claim records.
+This analysis provides an understanding of claim distribution and demographic patterns, designed to inform strategic decisions for risk assessment.
+This dashboard provides a clear overview of insurance claim distribution across age, gender, and location [Pennsylvania, South Carolina, West Virginia, North Carolina, Ohio, and New York] of 1000 insurance claim records.
 [![Image](Dashboard.png)](https://public.tableau.com/app/profile/abc.xyz5963/viz/CarInsuranceClaims_17517287652190/Dashboard1)
-Interactive dashboard can be [find here](https://public.tableau.com/app/profile/abc.xyz5963/viz/CarInsuranceClaims_17517287652190/Dashboard1)
+Interactive dashboard can be [found here](https://public.tableau.com/app/profile/abc.xyz5963/viz/CarInsuranceClaims_17517287652190/Dashboard1)
 ## Metrics
 * **Total Claim Amount:** The aggregated monetary value of all claims.
-* **Number of Claims:** The count if individual claim records (CNT(index no.))
-* **Injury Claim:** Monetary value of claims related to bodily injuries
-* **Property Calims:** Monetary value of claims related to property damage.
-*  **Vehicle Claims:** Moetary value of claims related to vehicle damage.
+* **Number of Claims:** The count of individual claim records (CNT(index no.))
+* **Injury Claim:** Monetary value of claims related to bodily injuries.
+* **Property Claims:** Monetary value of claims related to property damage.
+* **Vehicle Claims:** Monetary value of claims related to vehicle damage.
 
 ## Dimensions
-* **State:** Geographic of the incident or the placeholder
-*  **Age Groups:** Categorization of insured by age.
-*  **Insured Sex:** Gender of the insured.
+* **State:** Geographic location of the incident or the placeholder.
+* **Age Groups:** Categorization of insured by age.
+* **Insured Sex:** Gender of the insured.
 
 ## Summary of Insights
 
 ### Dominant Age Group
-* The **35-45 age** group drives the most claim activity, contributing the highest humber of claims and the largest total claim amounts across both male and female insured.
+* The **35-45 age** group drives the most claim activity, contributing the highest number of claims and the largest total claim amounts across both male and female insured.
 
 ### Geographic Concentration:
-* States like [New York, South Carolina] consistently show the highest total claim amounts while [Pennsylvania Ohio] show the lowest total claim amounts.
+* States like [New York, South Carolina] consistently show the highest total claim amounts while [Pennsylvania, Ohio] show the lowest total claim amounts.
 
-### Gender-sepcific activity
-* Female insured in this group show a higher absolute number of claims (229 for females vs 188 for males) and higher total calim amounts ($12.19M vs $9.54M for males) compared to males.
-* This trend of higher absolute values for females is generally observed across most age gropus for both total claims and specific claim types (property, vehicle, and injury claims).
+### Gender-specific activity
+* Female insured in this group show a higher absolute number of claims (229 for females vs 188 for males) and higher total claim amounts ($12.19M vs $9.54M for males) compared to males.
+* This trend of higher absolute values for females is generally observed across most age groups for both total claims and specific claim types (property, vehicle, and injury claims).
 
-### Claim Type Dominanace
-* Vehicle claims are the largest component of total claims amounts across al age groups for bith genders, signifying their primary financial impact.
+### Claim Type Dominance
+* Vehicle claims are the largest component of total claims amounts across all age groups for both genders, signifying their primary financial impact.
 
 ## Recommendations 
 
-* **Identify risk profiles:** Mitiagte risk and implement policies based on risk profiles.
+* **Identify risk profiles:** Mitigate risk and implement policies based on risk profiles.
 
-* **Target 35-45 age group:** Given this demographic's consistent lead in both claim frquency and total amount, it is crucial to conduct a deeper dive into specific risk factors within this age bracket to develop strategies or risk mitigation programs.
+* **Target 35-45 age group:** Given this demographic's consistent lead in both claim frequency and total amount, it is crucial to conduct a deeper dive into specific risk factors within this age bracket to develop strategies for risk mitigation programs.
 
-* **Gender-Specific review:** Observations in female insureds in 35-45 age group demands further investigation.
+* **Gender-Specific review:** Observations in female insureds in the 35-45 age group demand further investigation.
 
-* **Geographic review:** Varied claim amounts across states suggest the nedd to review and adjust underwrting policies or premium structures based on risk profiles. 
-  
+* **Geographic review:** Varied claim amounts across states suggest the need to review and adjust underwriting policies or premium structures based on risk profiles. 
