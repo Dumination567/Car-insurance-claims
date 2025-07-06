@@ -1,7 +1,7 @@
 # Car Insurance Claims
 ## Description 
 This analysis provides an understanding of claim distribution and demographic patterns, designed to inform strateguc decsions for risk assessment.
-
+This dashboard provides a clear overview of insurance calim distribution across age, gender and location [Pennsylvania, South Carolina, West Virgina, North Carolina, Ohio, and New York] of 1000 insurance claim records.
 [![Image](Dashboard.png)](https://public.tableau.com/app/profile/abc.xyz5963/viz/CarInsuranceClaims_17517287652190/Dashboard1)
 Interactive dashboard can be [find here](https://public.tableau.com/app/profile/abc.xyz5963/viz/CarInsuranceClaims_17517287652190/Dashboard1)
 ## Metrics
