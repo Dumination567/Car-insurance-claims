@@ -1,4 +1,4 @@
-# Car Insurance Claims
+# Car Insurance Claims Analysis
 ## Description 
 This analysis provides an understanding of claim distribution and demographic patterns, designed to inform strategic decisions for risk assessment.
 This dashboard provides a clear overview of insurance claim distribution across age, gender, and location [Pennsylvania, South Carolina, West Virginia, North Carolina, Ohio, and New York] of 1000 insurance claim records.
