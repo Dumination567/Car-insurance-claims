@@ -1,6 +1,9 @@
 # Car Insurance Claims
 ## Description 
 This analysis provides an understanding of claim distribution and demographic patterns, designed to inform strateguc decsions for risk assessment.
+
+![Image](Dashboard.png)
+Interactive dashboard can be [find here](https://public.tableau.com/app/profile/abc.xyz5963/viz/CarInsuranceClaims_17517287652190/Dashboard1)
 ## Metrics
 * **Total Claim Amount:** The aggregated monetary value of all claims.
 * **Number of Claims:** The count if individual claim records (CNT(index no.))
