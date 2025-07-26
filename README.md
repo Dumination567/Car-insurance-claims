@@ -25,7 +25,7 @@ Interactive dashboard can be [found here](https://public.tableau.com/app/profile
 * States like [New York, South Carolina] consistently show the higher total claim amounts while [Pennsylvania, Ohio] show the lower total claim amounts.
 
 ### Gender-specific activity
-* Female insured in this group show a higher absolute number of claims (229 for females vs 188 for males) and higher total claim amounts ($12.19M vs $9.54M for males) compared to males.
+* While the 35-45 age group is dominant for both, female insured in this group show a higher absolute number of claims (229 for females vs 188 for males) and higher total claim amounts ($12.19M vs $9.54M for males) compared to males.
 * This trend of higher absolute values for females is generally observed across most age groups for total claims and specific claim types (property, vehicle, and injury claims).
 
 ### Claim Type Dominance
